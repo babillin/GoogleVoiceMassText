@@ -1,0 +1,39 @@
+Return-Path:
+  <3qfSDUiIUADwz0265z4y54z.z0262400503.Ata3-2rB5Frvr.tmgac.emmejc.amk@grandcentral.bounces.google.com>
+Delivered-To: unknown
+Received: from pop.gmail.com (173.194.68.109:995) by serenity with POP3-SSL;
+  13 Nov 2013 21:55:28 -0000
+Delivered-To: serenity.bbillington@gmail.com
+Received: by 10.180.11.70 with SMTP id o6csp260174wib;
+        Wed, 13 Nov 2013 13:52:42 -0800 (PST)
+Received-SPF: pass (google.com: domain of 3qfSDUiIUADwz0265z4y54z.z0262400503.Ata3-2rB5Frvr.tmgac.emmejc.amk@grandcentral.bounces.google.com designates 10.58.39.202 as permitted sender) client-ip=10.58.39.202
+Authentication-Results: mr.google.com;
+       spf=pass (google.com: domain of 3qfSDUiIUADwz0265z4y54z.z0262400503.Ata3-2rB5Frvr.tmgac.emmejc.amk@grandcentral.bounces.google.com designates 10.58.39.202 as permitted sender) smtp.mail=3qfSDUiIUADwz0265z4y54z.z0262400503.Ata3-2rB5Frvr.tmgac.emmejc.amk@grandcentral.bounces.google.com;
+       dkim=pass header.i=@google.com
+X-Received: from mr.google.com ([10.58.39.202])
+        by 10.58.39.202 with SMTP id r10mr24529854vek.12.1384379562397 (num_hops = 1);
+        Wed, 13 Nov 2013 13:52:42 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:references:message-id:date:subject:from:to
+         :content-type;
+        bh=5QYyFHiaY+Yeywb0mZOhVoKFyGCz/fYVJ926d+CcHX8=;
+        b=bKA1ZQ9uzd0CBIwm5j3GIfLHSPGW+n3e5Pb+hR0jfTqHTvfREXilDjVAp2DtQ69ob4
+         MrxdOgK+4jTu0WWaqqMBotM7rNbfE2ItbzY5TUDCyPtP8I/vyb/O0eHmOyR0DenUNuNn
+         aE7tpoE0gySoSG1ml+YXYBgfW83Cn1ZY23f88XA8RIIc3Ug6e7FEmMypxLPCpTItm30u
+         jXtYkHhD0GOAgyKZJ2IQybGQ4CQ4A+56mZ44s/YVbPt2GijSP2XyE1p/GhpK1yFAEQeN
+         z35bMFXYaMGVB6bRFVmTFxMG9qfCYnPiHuav556FIba0Sfbg0cycKs+BfHxZkJlwxeF9
+         qSXQ==
+MIME-Version: 1.0
+X-Received: by 10.58.39.202 with SMTP id r10mr14856145vek.12.1384379561697;
+ Wed, 13 Nov 2013 13:52:41 -0800 (PST)
+References: <+12487160761.a569ba2c76540a75bc533d085d0b4d34c740120a@txt.voice.google.com>
+Message-ID: <+12487160761.28de23b3ebd2f13eb069ee4b1f9f1217f6fc1bde@txt.voice.google.com>
+Date: Wed, 13 Nov 2013 21:52:41 +0000
+Subject: SMS from (248) 462-2725
+From: "(248) 462-2725" <12487160761.12484622725.Cvc5-4tD7H@txt.voice.google.com>
+To: Serenity.Bbillington@gmail.com
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed; delsp=yes
+
+#tri I am testing shit to see if I. Can break it for Chris! Chris is real  
+awesome for helping me!? Yup that's about it
